@@ -30,7 +30,7 @@
     "sequelize": "^6.30.0",
     "ts-node": "^10.9.1",
     "typeorm": "^0.3.12",
-    "typescript": "^5.0.2",
+    "typescript": "^5.4.5",
     "validatorjs": "^3.22.1"
   },
   "devDependencies": {
